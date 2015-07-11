@@ -1,0 +1,4 @@
+startNetworkServer -noSecurityManager
+
+
+https://glassfish.org/hol/
